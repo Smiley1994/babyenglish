@@ -1,0 +1,61 @@
+PODS:
+  - device_info (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - fluwx (0.0.1):
+    - Flutter
+  - FMDB (2.7.2):
+    - FMDB/standard (= 2.7.2)
+  - FMDB/standard (2.7.2)
+  - path_provider (0.0.1):
+    - Flutter
+  - shared_preferences (0.0.1):
+    - Flutter
+  - sqflite (0.0.1):
+    - Flutter
+    - FMDB (~> 2.7.2)
+  - video_player (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - device_info (from `.symlinks/plugins/device_info/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+  - fluwx (from `.symlinks/plugins/fluwx/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/ios`)
+  - video_player (from `.symlinks/plugins/video_player/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FMDB
+
+EXTERNAL SOURCES:
+  device_info:
+    :path: ".symlinks/plugins/device_info/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  fluwx:
+    :path: ".symlinks/plugins/fluwx/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/ios"
+  video_player:
+    :path: ".symlinks/plugins/video_player/ios"
+
+SPEC CHECKSUMS:
+  device_info: 76ce0b32e13034d1883be4a382433648f9dcee63
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  fluwx: 9cbb1181ef8fd772f7388714ec9b5dfd3a5d0108
+  FMDB: 6198a90e7b6900cfc046e6bc0ef6ebb7be9236aa
+  path_provider: 09407919825bfe3c2deae39453b7a5b44f467873
+  shared_preferences: 5a1d487c427ee18fcd3ea1f2a131569481834b53
+  sqflite: 801b6b0983f722fa29baf00d1476e4556ada6de4
+  video_player: 906796a841943c8d370ac7c13b18039aa9b56498
+
+PODFILE CHECKSUM: 4d39906452b611b04354dbd280a14997bc00d55c
+
+COCOAPODS: 1.5.3
